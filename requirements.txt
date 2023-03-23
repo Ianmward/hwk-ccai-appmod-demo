@@ -2,5 +2,5 @@
 # package>=version
 SQLAlchemy==1.4.22
 pg8000==1.21.2
-functions-framework==1.6.1
+functions-framework==3.3.0
 
